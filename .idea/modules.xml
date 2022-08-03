@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QiTalk-master.iml" filepath="$PROJECT_DIR$/.idea/modules/QiTalk-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QiTalk-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.iml" filepath="$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/gallerypick/QiTalk-master.gallerypick.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.iml" filepath="$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.main.iml" filepath="$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/reclib_qq/QiTalk-master.reclib_qq.unitTest.iml" />
+    </modules>
+  </component>
+</project>
